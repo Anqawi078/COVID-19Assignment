@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "ccr-p4-yFb"; */
+"ccr-p4-yFb.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "Please check your internet connection \nto be updated with offers."; ObjectID = "qRA-7p-naD"; */
+"qRA-7p-naD.text" = "Please check your internet connection \nto be updated with offers.";
+
+/* Class = "UILabel"; text = "No internet\nConnection!"; ObjectID = "s54-Hl-m3n"; */
+"s54-Hl-m3n.text" = "No internet\nConnection!";

@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "ccr-p4-yFb"; */
+"ccr-p4-yFb.normalTitle" = "إعادة المحاولة";
+
+/* Class = "UILabel"; text = "Waiting Connection ..."; ObjectID = "qRA-7p-naD"; */
+"qRA-7p-naD.text" = "انتظار الاتصال ...";
+
+/* Class = "UILabel"; text = "We cannot detect an Internet Connection"; ObjectID = "s54-Hl-m3n"; */
+"s54-Hl-m3n.text" = "لا يمكننا الكشف عن اتصال الإنترنت";
